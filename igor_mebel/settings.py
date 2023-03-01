@@ -142,4 +142,5 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:7000",
     "http://localhost:8000",
     "http://localhost:8080",
+    "https://igor-mebel.eu.ngrok.io",
 ]
